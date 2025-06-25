@@ -30,7 +30,4 @@ the projects runtime path.
 
 Compilation -javac -cp ".;lib/mysql-connector-java-8.0.28.jar;lib/rs2xml.jar" *.java
 Run - java -cp ".;lib/mysql-connector-java-8.0.28.jar;lib/rs2xml.jar" StartPage
-* To set a main class in a standard Java project, right-click the project node
-in the Projects window and choose Properties. Then click Run and enter the
-class name in the Main Class field. Alternatively, you can manually type the
-class name in the manifest Main-Class element.
+
